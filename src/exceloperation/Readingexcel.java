@@ -57,7 +57,7 @@ public class Readingexcel {
 					System.out.print(cell.getBooleanCellValue());
 					break;
 				}
-				System.out.print("    |    ");
+				System.out.print("   |   ");
 
 			}
 			
